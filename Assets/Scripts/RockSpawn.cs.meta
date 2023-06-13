@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ecaf47860a549ff45a7d413958094bee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemySpawn1: {fileID: 100000, guid: 532788c369e551d44a067aa3c8bb182c, type: 3}
+  - enemySpawn2: {instanceID: 0}
+  - enemySpawn3: {instanceID: 0}
+  - enemySpawn4: {instanceID: 0}
+  - enemySpawn5: {instanceID: 0}
+  - enemySpawn6: {instanceID: 0}
+  - enemySpawn7: {instanceID: 0}
+  - enemySpawn8: {instanceID: 0}
+  - enemySpawn9: {instanceID: 0}
+  - enemySpawn10: {instanceID: 0}
+  - enemySpawn11: {instanceID: 0}
+  - gameObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
